@@ -1,0 +1,14 @@
+{
+  "hash": "6cacd4959f223d5ca80d7a422eee1aa1",
+  "result": {
+    "markdown": "---\ntitle: \"Conflict Between Marine Mammals and Seabirds with Fisheries in the Southern North Sea\"\npage-layout: full\nformat:\n  html:\n    css: assets/index.css\n---\n\n\n::: {.main style=\"width:100%; float: left;\"}\n\n\n## Synopsis of Work\nSince the early 1990's, marine mammal populations (particularly seals) have increased in the southern North Sea and eastern English Channel. Concurrently, seabird populations have fluctuated since the early 1990s and fish stocks have been under tight regulation. Since there is often overlap between top predator diets and fisheries target species, an increase to top predators can create a perception of competition for resources. An ecosystem model has been developed for the [Ecopath with Ecosim](www.ecopath.org) software to explore this perceived competition. \n\n\n::: {.cell layout-align=\"left\"}\n::: {.cell-output-display}\n![The foodweb and general concept behind the Ecopath with Ecosim model.](../../Project_images/ewe_ns.png){fig-align='left' width=50%}\n:::\n:::\n\n\n\n## Presentations\n* **Woodstock, M.S.**, J.J. Kizka, P.G.H. Evans, J.J. Waggitt, Y. Zhang. (2022). Debunking misconceptions: rising marine mammal abundances have little impact on fisheries in the southern North Sea. 24th Biennial Conference on the Biology of Marine Mammals. Palm Beach, FL. <i>Poster</i>\n\n* **Woodstock, M.S.**, J.J. Kiszka, P.G.H. Evans, J.J. Waggitt, Y. Zhang. (2021). Debunking Misconceptions: Marine mammals and seabirds have limited impacts on fisheries catches in the North Sea. Florida International University Biosymposium. Online Presentation.\n\n\n## Collaborators\n[Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>\n[Florida International Unviersity Marine Conservation Ecology Lab](https://marineconservationecologylab.com/)<br>\n[Marine Ecosystems Research Programme](https://www.marine-ecosystems.org.uk/Contact/MERP_Scientists/Evans)<br>\n[Sea Watch Foundation & School of Ocean Sciences, University of Bangor](https://www.bangor.ac.uk/oceansciences/index.php.en)<br>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

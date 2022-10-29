@@ -1,0 +1,69 @@
+---
+title: "Publications"
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    css: assets/index.css
+---
+
+::: {.main style="width:60%; float: left;"}
+<i> If you have trouble accessing any of these, please [email me](mailto:matthew.woodstock@morgan.edu).</i>
+
+## 2022
+
+* **Woodstock, M.S.**, Y. Zhang. (2022). Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. 188:103851 [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.dsr.2022.103851)
+
+* **Woodstock, M.S.**, T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. 67:1443–1455. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12093)
+
+* Kiszka, J.J., **M.S., Woodstock**, M. Heithaus. (2022). Functional roles and ecological importance of small cetaceans in aquatic ecosystems. Frontiers in Marine Science. [<i class="fa-solid fa-link"></i>](https://doi.org/10.3389/fmars.2022.803173)
+
+
+## 2021
+
+* **Woodstock, M.S.**, T.T. Sutton, T. Frank, Y. Zhang. (2021). An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Ecological Modelling. 445:109509. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2021.109509)
+
+
+## 2020
+
+* **Woodstock, M.S.**, C.A. Blanar, T.T. Sutton. (2020). Diet and parasites of a mesopelagic fish assemblage in the Gulf of Mexico. Marine Biology. 167:184  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1007/s00227-020-03796-6)
+
+## 2019
+
+
+* Beck, H.N., A. Cohen, T. McKenzie, R. Weisend, K.W. Wikins, **M.S. Woodstock**. (2019). Broadening Horizons: Graduate Students Participating in International Collaborations Through the Limnology and Oceanography Research Exchange (LOREX) Program. Limnology and Oceanography Bulletin. 28:85–89. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lob.10339) 
+
+* **Woodstock, M.S.**, C. Golightly, D. Fenolio, J.A. Moore. (2019). <i>Larsonia pterophylla</i> (Cnidaria, Pandeidae) parasitic on two Anguilliformes: <i>Paraconger</i> sp. (Congridae) and <i>Callenchelyini</i> sp. (Ophichthidae) in the Gulf of Mexico. Gulf and Caribbean Research. 30:SC7–10. [<i class="fa-solid fa-link"></i>](https://doi.org/10.18785/gcr.3001.05)
+
+
+## 2018
+
+* **Woodstock, M.S.**. (2018). Trophic Ecology and Parasitism of a Mesopelagic Fish Assemblage. Nova Southeastern University. Master's Thesis. [<i class="fa-solid fa-link"></i>](https://nsuworks.nova.edu/occ_stuetd/469/)
+
+:::
+
+::: {.main style="width:40%; float: left;"}
+
+```{r, echo=F,out.width="100%"}
+  library(scholar)
+  library(ggplot2)
+  library(scales)
+  cit <- get_citation_history('UtMzPDQAAAAJ')
+  cites <- scholar::get_profile('UtMzPDQAAAAJ')$total_cites
+  h_ind <- scholar:: get_profile('UtMzPDQAAAAJ')$h_index
+  ggplot(cit,aes(x=year,y=cites))+
+    geom_hline(yintercept = mean(cit$cites),linetype="dashed")+
+    geom_bar(stat='identity',aes(fill=cites))+
+    theme_classic()+
+    scale_y_continuous(breaks = pretty_breaks())+
+    scale_fill_gradient(low="white",high="blue",limits=c(0,max(cit$cites)))+
+    theme(axis.text = element_text(size=14),axis.title = element_text(size=16),plot.background = element_rect(fill="transparent",color="transparent"),panel.background = element_rect(fill="transparent",color="transparent"),title = element_text(size=16),legend.position = "none")+
+    ggtitle(paste("Matt Woodstock's Google Scholar Citations\nTotal Citations: ",cites,"\nh-index: ",h_ind,sep=""))+
+    xlab('Year of Citation')+
+    ylab('Google Scholar\n Citations')+
+    annotate('text',label=format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"),x=-Inf,y=Inf,vjust=1.5,hjust=-0.05,size=3,colour='gray')+
+    annotate('text',label=paste("Average Cites per Year: ",round(mean(cit$cites),1),sep=""),x=-Inf,y=mean(cit$cites)+0.3,hjust=-0.05,size=3,colour='black',alpha=.8)
+
+
+```
+:::

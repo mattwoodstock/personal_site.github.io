@@ -1,0 +1,14 @@
+{
+  "hash": "1171631ecd63c33679cca0ceb0185e97",
+  "result": {
+    "markdown": "---\ntitle: \"Carbon Export by Mesopelagic Fishes in the Gulf of Mexico\"\npage-layout: full\nformat:\n  html:\n    css: assets/index.css\n---\n\n\n::: {.main style=\"width:100%; float: left;\"}\n\n\n## Synopsis of Work\nThe active transport of carbon from the epipelagic zone (0–200m) into the deep-pelagic zone (water column deeper than 200m) occupies a significant contribution to the biological carbon pump and serves to aid in carbon sequestration into the deep sea. Carbon export modeling is generally an extension of bioenergetic modeling, applying energetic rates with life history parameters to estimate carbon ingestion and release. Through this effort, I have developed a trait-based model that runs on an individual scale, allowing for comparisons among species and size classes. In the oceanic Gulf of Mexico, the mesopelagic micronekton fish community actively transports between 11 and 24% of the total dissolved organic carbon in the water column each year, an act primarily led by lanternfishes. Ongoing efforts aim to improve on the model structure (R-based), incorporate new processes, and refine carbon export estimates for the carbon export of mesopelagic fishes in the Gulf of Mexico.\n\n\n\n## Publications\n* **Woodstock, M.S.**, T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. 67:1443–1455. [Link to Paper](https://doi.org/10.1002/lno.12093)\n\n\n::: {.cell}\n::: {.cell-output-display}\n![The assemblage-scale results of the carbon export of mesopelagic fishes in the Gulf of Mexico. Image of <i>Diaphus mollis</i> by Danté Fenolio|DEEPEND](../../Project_images/carbon_export.png){width=100%}\n:::\n:::\n\n\n\n## Presentation\n* **Woodstock, M.S.**, T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. ASLO Ocean Sciences Meeting. Online Presentation. \n\n\n## Collaborators\n[Deep-Pelagic Nekton Dynamics of the Gulf of Mexico](https://www.deependconsortium.org)<br>\n[Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5d20f338731c8d405944c9fdf5866dd4",
+  "result": {
+    "markdown": "---\ntitle: \"Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico\"\npage-layout: full\nformat:\n  html:\n    css: assets/index.css\n---\n\n\n::: {.main style=\"width:100%; float: left;\"}\n\n\n## Synopsis of Work\nOceanic cetaceans routinely dive to deep (greater than 200m) depths in search of food and then return to the surface to breathe. Due to physiological conditions, the excretion of nutrients generally occurs in shallow waters during surface intervals. This action actively transports Nitrogen from the deep ocean towards the surface, increasing primary productivity in the near surface waters.\n\n\n## Publications\n* **Woodstock, M.S.**, J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (in review.). Cetacean-mediated nitrogen transport in the oceanic Gulf of Mexico.\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![The assemblage-scale results of the carbon export of mesopelagic fishes in the Gulf of Mexico. Image of <i>Diaphus mollis</i> by Danté Fenolio|DEEPEND](../../Project_images/carbon_export.png){width=100%}\n:::\n:::\n\n\n\n## Collaborators\n[Dalhousie University Marine Environmental Modelling Group](https://memg.ocean.dal.ca/index.html)<br>\n[Deep-Pelagic Nekton Dynamics of the Gulf of Mexico](https://www.deependconsortium.org)<br>\n[Ensenada Center for Scientific Research and Higher Education (CICESE)](https://www.cicese.edu.mx/)\n[Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>\n[Florida International Unviersity Marine Conservation Ecology Lab](https://marineconservationecologylab.com/)<br>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

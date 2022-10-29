@@ -1,0 +1,27 @@
+---
+title: "Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico"
+page-layout: full
+image: https://raw.githubusercontent.com/fishesofthedeep/personal_site.github.io/main/Project_images/N_Excretion.png
+format:
+  html:
+    css: assets/index.css
+---
+
+::: {.main style="width:100%; float: left;"}
+
+
+## Synopsis of Work
+Oceanic cetaceans routinely dive to deep (greater than 200m) depths in search of food and then return to the surface to breathe. Due to physiological conditions, the excretion of nutrients generally occurs in shallow waters during surface intervals. This action actively transports Nitrogen from the deep ocean towards the surface, increasing primary productivity in the near surface waters. A spatially explicit, nutrient transport model was developed to estimate the daily, vertical nitrogen transport by oceanic cetaceans in the Gulf of Mexico. Those values were compared to a physical-biogeochemical model to relate those values in terms of the standing stock of Nitrogen in the near-surface waters.
+
+
+## Publications
+* **Woodstock, M.S.**, J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (in review.). Cetacean-mediated nitrogen transport in the oceanic Gulf of Mexico.
+
+
+## Collaborators
+[Dalhousie University Marine Environmental Modelling Group](https://memg.ocean.dal.ca/index.html)<br>
+[Deep-Pelagic Nekton Dynamics of the Gulf of Mexico](https://www.deependconsortium.org)<br>
+[Ensenada Center for Scientific Research and Higher Education (CICESE)](https://www.cicese.edu.mx/)
+[Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>
+[Florida International Unviersity Marine Conservation Ecology Lab](https://marineconservationecologylab.com/)<br>
+:::

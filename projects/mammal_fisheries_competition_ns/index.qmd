@@ -1,0 +1,32 @@
+---
+title: "Conflict Between Marine Mammals and Seabirds with Fisheries in the Southern North Sea"
+page-layout: full
+image: https://raw.githubusercontent.com/fishesofthedeep/personal_site.github.io/main/Project_images/ewe_ns.png
+format:
+  html:
+    css: assets/index.css
+---
+
+::: {.main style="width:100%; float: left;"}
+
+
+## Synopsis of Work
+Since the early 1990's, marine mammal populations (particularly seals) have increased in the southern North Sea and eastern English Channel. Concurrently, seabird populations have fluctuated since the early 1990s and fish stocks have been under tight regulation. Since there is often overlap between top predator diets and fisheries target species, an increase to top predators can create a perception of competition for resources. An ecosystem model has been developed for the [Ecopath with Ecosim](www.ecopath.org) software to explore this perceived competition. 
+
+```{r,echo=F, out.width="50%",fig.align= "left", fig.cap="The foodweb and general concept behind the Ecopath with Ecosim model."}
+knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/ewe_ns.png')
+```
+
+
+## Presentations
+* **Woodstock, M.S.**, J.J. Kizka, P.G.H. Evans, J.J. Waggitt, Y. Zhang. (2022). Debunking misconceptions: rising marine mammal abundances have little impact on fisheries in the southern North Sea. 24th Biennial Conference on the Biology of Marine Mammals. Palm Beach, FL. <i>Poster</i>
+
+* **Woodstock, M.S.**, J.J. Kiszka, P.G.H. Evans, J.J. Waggitt, Y. Zhang. (2021). Debunking Misconceptions: Marine mammals and seabirds have limited impacts on fisheries catches in the North Sea. Florida International University Biosymposium. Online Presentation.
+
+
+## Collaborators
+[Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>
+[Florida International Unviersity Marine Conservation Ecology Lab](https://marineconservationecologylab.com/)<br>
+[Marine Ecosystems Research Programme](https://www.marine-ecosystems.org.uk/Contact/MERP_Scientists/Evans)<br>
+[Sea Watch Foundation & School of Ocean Sciences, University of Bangor](https://www.bangor.ac.uk/oceansciences/index.php.en)<br>
+:::

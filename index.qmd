@@ -1,0 +1,51 @@
+---
+title: "News"
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    css: assets/index.css
+---
+
+
+
+::: {.main style="width:60%; float: left;"}
+
+## <i class="fas fa-newspaper"></i> Recent Publications
+
+* <b>Woodstock</b> and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers.  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.dsr.2022.103851)
+
+* <b>Woodstock</b>, Sutton, and Zhang (2022) A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography.  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12093)
+
+* Kiszka, <b>Woodstock</b>, and Heithaus (2022) Functional roles and ecological importance of small cetaceans in aquatic ecosystems. Frontiers in Marine Science  [<i class="fa-solid fa-link"></i>](https://doi.org/10.3389/fmars.2022.803173)
+
+* <b>Woodstock</b>, Sutton, Frank, and Zhang (2021) An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2021.109509)
+
+* <b>Woodstock</b>, Blanar, and Sutton (2020). Diet and parasites of a mesopelagic fish assemblage in the Gulf of Mexico. Marine Biology.  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1007/s00227-020-03796-6)
+
+
+## <i class="fas fa-wrench"></i> Ongoing Projects
+
+You can view the individual page to each of my current projects in the Research Tab:
+
+* **Regional Economic Impacts of Oyster Reef Restoration and Seagrass Die-off in the Virginia Middle Peninsula** 
+
+* **Ecosystem-Based Modeling in the Oceanic Gulf of Mexico**
+
+* **Vertical Nitrogen Transport by Cetaceans in the oceanic Gulf of Mexico**
+
+* **Active Carbon Transport by Mesopelagic Fishes in the oceanic Gulf of Mexico**
+
+* **Assessing the Conflict Between Commercial Fisheries and Cetaceans in the Southern North Sea** 
+
+
+:::
+
+::: {style="width:40%; float: right;padding-left: 20px;"}
+
+<a class="twitter-timeline" data-height="700" data-width="300"  href="https://twitter.com/fishesarefrandz">Tweets by fishesarefrandz</a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:::
+

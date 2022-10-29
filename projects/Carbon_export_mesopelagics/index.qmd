@@ -1,0 +1,33 @@
+---
+title: "Carbon Export by Mesopelagic Fishes in the Gulf of Mexico"
+page-layout: full
+image: https://raw.githubusercontent.com/fishesofthedeep/personal_site.github.io/main/Project_images/carbon_export.png
+format:
+  html:
+    css: assets/index.css
+---
+
+::: {.main style="width:100%; float: left;"}
+
+
+## Synopsis of Work
+The active transport of carbon from the epipelagic zone (0–200m) into the deep-pelagic zone (water column deeper than 200m) occupies a significant contribution to the biological carbon pump and serves to aid in carbon sequestration into the deep sea. Carbon export modeling is generally an extension of bioenergetic modeling, applying energetic rates with life history parameters to estimate carbon ingestion and release. Through this effort, I have developed a trait-based model that runs on an individual scale, allowing for comparisons among species and size classes. In the oceanic Gulf of Mexico, the mesopelagic micronekton fish community actively transports between 11 and 24% of the total dissolved organic carbon in the water column each year, an act primarily led by lanternfishes. Ongoing efforts aim to improve on the model structure (R-based), incorporate new processes, and refine carbon export estimates for the carbon export of mesopelagic fishes in the Gulf of Mexico.
+
+
+
+## Publications
+* **Woodstock, M.S.**, T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. 67:1443–1455. [Link to Paper](https://doi.org/10.1002/lno.12093)
+
+```{r,echo=F, out.width="100%", fig.cap="The assemblage-scale results of the carbon export of mesopelagic fishes in the Gulf of Mexico. Image of <i>Diaphus mollis</i> by Danté Fenolio|DEEPEND"}
+knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/carbon_export.png')
+```
+
+
+## Presentation
+* **Woodstock, M.S.**, T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. ASLO Ocean Sciences Meeting. Online Presentation. 
+
+
+## Collaborators
+[Deep-Pelagic Nekton Dynamics of the Gulf of Mexico](https://www.deependconsortium.org)<br>
+[Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>
+:::

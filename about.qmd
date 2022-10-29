@@ -1,0 +1,72 @@
+---
+title: "About"
+image: images/headshot.png
+page-layout: article
+about:
+  id: hero-heading
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/fishesarefrandz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/matt-woodstock-11556269/
+    - icon: github
+      text: Github
+      href: https://github.com/mwood078
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=UtMzPDQAAAAJ&hl=en
+    - icon: mortarboard-fill
+      text: Morgan State
+      href: https://www.morgan.edu
+engine: knitr
+format:
+  html:
+    css: assets/about.css
+---
+
+
+
+:::{#hero-heading}
+
+:::
+
+
+I'm a Postdoctoral Research Fellow at [Morgan State University's Patuxent Environmental and Aquatic Research Laboratory (MSU PEARL)](https://www.morgan.edu/pearl).
+
+My **research interests** are:
+
+* [Ecosystem-based modeling]{.highlight-color} of aquatic systems
+* [Consumer-mediated nutrient transport modeling]{.highlight-color}
+* Comparisons of [ecosystem functioning]{.highlight-color} across ecosystem borders
+* [Trophic ecology]{.highlight-color} of mesopelagic fishes
+* [Network Analysis]{.highlight-color}
+* [Data visualization]{.highlight-color} and [visual inference]{.highlight-color}
+
+I am proficient in **R** (base + tidyverse), **Primer**, and **Ecopath with Ecosim** and have working knowledge of **OSMOSE** (Java-based), **QGIS** (Python-based) and **Atlantis**. I also have a rudimentary understanding of **Bash**, primarily for running models on servers. I've lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, and Maryland. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in **R**. For the creation of this website, I also gained the experience of some front-end web development (**HTML/CSS/JS**).
+
+
+I am a big advocate of [open science](https://en.wikipedia.org/wiki/Open_science) and I try to deposit my code on **GitHub**. Please contact me for any code that you may like to utilize and/or any potential collaborations.
+
+
+## Contact
+
+```{r, echo = FALSE}
+df <- data.frame(what = c('<i class="fab fa-twitter"></i>',
+                           '<i class="fab fa-github"></i>',
+                           '<i class="fas fa-envelope"></i>',
+                           '<i class="fas fa-map-marker-alt"></i>'),
+                 where = c("[fishesarefrandz](https://twitter.com/fishesarefrandz)",
+                           "[mwood078](https://github.com/mwood078)",
+                           "[matthew.woodstock@morgan.edu](mailto:matthew.woodstock@morgan.edu)",
+                           "Morgan State University Patuxent Environmental and Aquatic Research Laboratory<br>10545 Mackall Rd<br>St Leonard, MD, USA 20685"))
+knitr::kable(df, col.names = c("", ""), escape = FALSE)
+```
+
+If you would like access to one of my papers or would like to collaborate on a research project or grant, **please send me an email**. I will do my best to respond quickly but if I not respond within a week, **please resend** as it likely got buried.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21037.55979648716!2d-76.52152605282951!3d38.38942260498965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b77d1c1a82f6ad%3A0xe2ab5ae21156116f!2sPatuxent%20Environmental%20%26%20Aquatic%20Research%20Laboratory!5e0!3m2!1sen!2sus!4v1663175595884!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+

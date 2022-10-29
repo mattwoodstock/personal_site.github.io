@@ -1,0 +1,47 @@
+---
+title: "Curriculum vitae"
+description: ""
+format:
+  html:
+    css: 
+      - assets/cv/css/aos.css
+      - assets/cv_custom.css
+    template: assets/cv/template.html 
+    include-after-body: 
+      text: |
+        <script src="/assets/cv/js/aos.js"></script>
+        <script>
+        AOS.init({
+          anchorPlacement: 'top-left',
+          duration: 1000,
+          offset: 120
+        });
+        </script>
+page-layout: article
+title-block-banner: true
+---
+
+
+<div id="canvas">
+
+
+```{r, out.width=800, out.height= 1100, include=TRUE, fig.align="center", echo=FALSE}
+knitr::include_graphics("C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Woodstock_CV_working.pdf")
+```
+
+
+
+</div>
+
+
+<a href="Woodstock_CV_working.pdf">
+<div class="download">
+<i class="fas fa-file-pdf"></i> Download CV
+</div>
+</a>
+
+
+
+
+
+
