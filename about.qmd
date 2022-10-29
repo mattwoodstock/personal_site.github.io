@@ -11,7 +11,7 @@ about:
       href: https://twitter.com/fishesarefrandz
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/matt-woodstock-11556269/
+      href: https://www.linkedin.com/in/matt-woodstock-ph-d-11556269/
     - icon: github
       text: Github
       href: https://github.com/mwood078
