@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -87,31 +87,36 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html">CV</a>
+    <a class="nav-link" href="./cv.html">
+ <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">Publications</a>
+    <a class="nav-link" href="./publications.html">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html">Research</a>
+    <a class="nav-link" href="./research.html">
+ <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">About Me</a>
+    <a class="nav-link active" href="./about.html" aria-current="page">
+ <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="mailto:matthew.woodstock@morgan.edu"><i class="bi bi-envelope" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/fishesarefrandz"><i class="bi bi-twitter" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -174,7 +179,7 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
 <li><span class="highlight-color">Network Analysis</span></li>
 <li><span class="highlight-color">Data visualization</span> and <span class="highlight-color">visual inference</span></li>
 </ul>
-<p>I am proficient in <strong>R</strong> (base + tidyverse), <strong>Primer</strong>, and <strong>Ecopath with Ecosim</strong> and have working knowledge of <strong>OSMOSE</strong> (Java-based), <strong>QGIS</strong> (Python-based) and <strong>Atlantis</strong>. I also have a rudimentary understanding of <strong>Bash</strong>, primarily for running models on servers. I’ve lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, and Maryland. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in <strong>R</strong>. For the creation of this website, I also gained the experience of some front-end web development (<strong>HTML/CSS/JS</strong>).</p>
+<p>I am proficient in <strong>R</strong> (base + tidyverse), <strong>Primer</strong>, and <strong>Ecopath with Ecosim</strong> and have working knowledge of <strong>Julia</strong>, <strong>OSMOSE</strong> (Java-based), <strong>QGIS</strong> (Python-based) and <strong>Atlantis</strong>. I also have a rudimentary understanding of <strong>Bash</strong>, primarily for running models on servers. I’ve lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, and Maryland. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in <strong>R</strong>. For the creation of this website, I also gained the experience of some front-end web development (<strong>HTML/CSS/JS</strong>).</p>
 <p>I am a big advocate of <a href="https://en.wikipedia.org/wiki/Open_science">open science</a> and I try to deposit my code on <strong>GitHub</strong>. Please contact me for any code that you may like to utilize and/or any potential collaborations.</p>
 <section id="contact" class="level2">
 <h2 data-anchor-id="contact">Contact</h2>
@@ -202,7 +207,7 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
 </table>
 </div>
 </div>
-<p>If you would like access to one of my papers or would like to collaborate on a research project or grant, <strong>please send me an email</strong>. I will do my best to respond quickly but if I not respond within a week, <strong>please resend</strong> as it likely got buried.</p>
+<p>If you would like access to one of my papers or would like to collaborate on a research project or grant, <strong>please send me an email</strong>.</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21037.55979648716!2d-76.52152605282951!3d38.38942260498965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b77d1c1a82f6ad%3A0xe2ab5ae21156116f!2sPatuxent%20Environmental%20%26%20Aquatic%20Research%20Laboratory!5e0!3m2!1sen!2sus!4v1663175595884!5m2!1sen!2sus" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 
@@ -245,7 +250,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -281,24 +303,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

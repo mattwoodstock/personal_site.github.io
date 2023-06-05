@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -84,31 +84,36 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link active" href="./index.html" aria-current="page">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html">CV</a>
+    <a class="nav-link" href="./cv.html">
+ <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">Publications</a>
+    <a class="nav-link" href="./publications.html">
+ <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html">Research</a>
+    <a class="nav-link" href="./research.html">
+ <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">About Me</a>
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
     <a class="nav-link" href="mailto:matthew.woodstock@morgan.edu"><i class="bi bi-envelope" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/fishesarefrandz"><i class="bi bi-twitter" role="img">
 </i> 
- </a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -127,6 +132,7 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
   <div class="quarto-title-meta">
 
       
+    
       
     </div>
     
@@ -145,11 +151,10 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
 <section id="recent-publications" class="level2">
 <h2 class="anchored" data-anchor-id="recent-publications"><i class="fas fa-newspaper"></i> Recent Publications</h2>
 <ul>
+<li><p>Richards, Sutton, <b>Woodstock</b>, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. <a href="https://doi.org/10.1016/j.pocean.2023.102998"><i class="fa-solid fa-link"></i></a></p></li>
 <li><p><b>Woodstock</b> and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. <a href="https://doi.org/10.1016/j.dsr.2022.103851"><i class="fa-solid fa-link"></i></a></p></li>
 <li><p><b>Woodstock</b>, Sutton, and Zhang (2022) A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. <a href="https://doi.org/10.1002/lno.12093"><i class="fa-solid fa-link"></i></a></p></li>
 <li><p>Kiszka, <b>Woodstock</b>, and Heithaus (2022) Functional roles and ecological importance of small cetaceans in aquatic ecosystems. Frontiers in Marine Science <a href="https://doi.org/10.3389/fmars.2022.803173"><i class="fa-solid fa-link"></i></a></p></li>
-<li><p><b>Woodstock</b>, Sutton, Frank, and Zhang (2021) An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Ecological Modelling. <a href="https://doi.org/10.1016/j.ecolmodel.2021.109509"><i class="fa-solid fa-link"></i></a></p></li>
-<li><p><b>Woodstock</b>, Blanar, and Sutton (2020). Diet and parasites of a mesopelagic fish assemblage in the Gulf of Mexico. Marine Biology. <a href="https://doi.org/10.1007/s00227-020-03796-6"><i class="fa-solid fa-link"></i></a></p></li>
 </ul>
 </section>
 <section id="ongoing-projects" class="level2">
@@ -159,8 +164,6 @@ gtag('config', 'G-07SZXPNSJZ', { 'anonymize_ip': true});
 <li><p><strong>Regional Economic Impacts of Oyster Reef Restoration and Seagrass Die-off in the Virginia Middle Peninsula</strong></p></li>
 <li><p><strong>Ecosystem-Based Modeling in the Oceanic Gulf of Mexico</strong></p></li>
 <li><p><strong>Vertical Nitrogen Transport by Cetaceans in the oceanic Gulf of Mexico</strong></p></li>
-<li><p><strong>Active Carbon Transport by Mesopelagic Fishes in the oceanic Gulf of Mexico</strong></p></li>
-<li><p><strong>Assessing the Conflict Between Commercial Fisheries and Cetaceans in the Southern North Sea</strong></p></li>
 </ul>
 </section>
 </div>
@@ -213,7 +216,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -249,24 +269,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
