@@ -10,7 +10,15 @@ format:
 ::: {.main style="width:60%; float: left;"}
 <i> If you have trouble accessing any of these, please [email me](mailto:matthew.woodstock@morgan.edu).</i>
 
+## 2023
+* **Woodstock, M.S.**, J.J. Kiszka, M. Rafael Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang (accepted) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12093)
+
+
+* Richards, T.M., T.T. Sutton., **M.S. Woodstock**, H. Judkins, D. Wells. (2023). Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.pocean.2023.102998)
+
 ## 2022
+
+* **Woodstock, M.S.** (2022). Ecological modeling in the oceanic zone: A Gulf of Mexico case study. Doctoral Dissertation. Florida International University. **Email for pdf**
 
 * **Woodstock, M.S.**, Y. Zhang. (2022). Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. 188:103851 [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.dsr.2022.103851)
 
@@ -45,13 +53,15 @@ format:
 ::: {.main style="width:40%; float: left;"}
 
 ```{r, echo=F,out.width="100%"}
+  defaultW <- getOption("warn") 
+  options(warn = -1) 
   library(scholar)
   library(ggplot2)
   library(scales)
   cit <- get_citation_history('UtMzPDQAAAAJ')
   cites <- scholar::get_profile('UtMzPDQAAAAJ')$total_cites
   h_ind <- scholar:: get_profile('UtMzPDQAAAAJ')$h_index
-  ggplot(cit,aes(x=year,y=cites))+
+  ggplot(cit[cit$year < 2024,],aes(x=year,y=cites))+
     geom_hline(yintercept = mean(cit$cites),linetype="dashed")+
     geom_bar(stat='identity',aes(fill=cites))+
     theme_classic()+
@@ -61,9 +71,9 @@ format:
     ggtitle(paste("Matt Woodstock's Google Scholar Citations\nTotal Citations: ",cites,"\nh-index: ",h_ind,sep=""))+
     xlab('Year of Citation')+
     ylab('Google Scholar\n Citations')+
-    annotate('text',label=format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"),x=-Inf,y=Inf,vjust=1.5,hjust=-0.05,size=3,colour='gray')+
-    annotate('text',label=paste("Average Cites per Year: ",round(mean(cit$cites),1),sep=""),x=-Inf,y=mean(cit$cites)+0.3,hjust=-0.05,size=3,colour='black',alpha=.8)
-
+    annotate('text',label=format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"),x=-Inf,y=Inf,vjust=1.5,hjust=-0.05,size=4,colour='gray')+
+    annotate('text',label=paste("Average Cites per Year: ",round(mean(cit$cites),1),sep=""),x=-Inf,y=mean(cit$cites)+0.5,hjust=-0.05,size=4,colour='black',alpha=.8)
+options(warn = defaultW)
 
 ```
 :::
