@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     Morgan State\nI’m a Postdoctoral Research Fellow at Morgan State University’s Patuxent Environmental and Aquatic Research Laboratory (MSU PEARL).\nMy research interests are:\nI am proficient in R (base + tidyverse), Primer, and Ecopath with Ecosim and have working knowledge of Julia, OSMOSE (Java-based), QGIS (Python-based) and Atlantis. I also have a rudimentary understanding of Bash, primarily for running models on servers. I’ve lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, and Maryland. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in R. For the creation of this website, I also gained the experience of some front-end web development (HTML/CSS/JS).\nI am a big advocate of open science and I try to deposit my code on GitHub. Please contact me for any code that you may like to utilize and/or any potential collaborations."
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     Morgan State\nI’m a Postdoctoral Scholar at Woods Hole Oceanographic Institution.\nMy research interests are:\nI am proficient in R (base + tidyverse), Primer, and Ecopath with Ecosim and have working knowledge of Julia, OSMOSE (Java-based), QGIS (Python-based) and Atlantis. I also have a rudimentary understanding of Bash, primarily for running models on servers. I’ve lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, and Maryland. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in R. For the creation of this website, I also gained the experience of some front-end web development (HTML/CSS/JS).\nI am a big advocate of open science and I try to deposit my code on GitHub. Please contact me for any code that you may like to utilize and/or any potential collaborations."
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
     "title": "About",
     "section": "Contact",
-    "text": "Contact\n\n\n\n\n\n\nfishesarefrandz\n\n\n\nmwood078\n\n\n\nmatthew.woodstock@morgan.edu\n\n\n\nMorgan State University Patuxent Environmental and Aquatic Research Laboratory10545 Mackall RdSt Leonard, MD, USA 20685\n\n\n\n\n\nIf you would like access to one of my papers or would like to collaborate on a research project or grant, please send me an email."
+    "text": "Contact\n\n\n\n\n\n\nfishesarefrandz\n\n\n\nmwood078\n\n\n\nfishesofthedeep@gmail.com\n\n\n\nWoods Hole Oceanographic Institution45 Water St.Falmouth, MA, USA 02543\n\n\n\n\n\nIf you would like access to one of my papers or would like to collaborate on a research project or grant, please send me an email.\n\n\n”"
   },
   {
     "objectID": "cv.html",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Woodstock, Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, and Zhang (accepted) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. (Email for pre-print)\nRichards, Sutton, Woodstock, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. Progress in Oceanography. \nWoodstock and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. \nWoodstock, Sutton, and Zhang (2022) A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. \n\n\n\n\nYou can view the individual page to each of my current projects in the Research Tab:\n\nRegional Economic Impacts of Oyster Reef Restoration and Seagrass Die-off in the Virginia Middle Peninsula\nEcosystem-Based Modeling in the Oceanic Gulf of Mexico\nVertical Nitrogen Transport by Cetaceans in the oceanic Gulf of Mexico"
+    "text": "Woodstock, Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, and Zhang (2023) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. \nRichards, Sutton, Woodstock, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. Progress in Oceanography. \nWoodstock and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. \nWoodstock, Sutton, and Zhang (2022) A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. \n\n\n\n\nYou can view the individual page to each of my current projects in the Research Tab:\n\nRegional Economic Impacts of Oyster Reef Restoration and Seagrass Die-off in the Virginia Middle Peninsula\nEcosystem-Based Modeling in the Oceanic Gulf of Mexico\nVertical Nitrogen Transport by Cetaceans in the oceanic Gulf of Mexico"
   },
   {
     "objectID": "projects/Carbon_export_mesopelagics/index.html",
@@ -39,7 +39,7 @@
     "href": "projects/cetacean_nitrogen_transport/index.html",
     "title": "Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico",
     "section": "",
-    "text": "Oceanic cetaceans routinely dive to deep (greater than 200m) depths in search of food and then return to the surface to breathe. Due to physiological conditions, the excretion of nutrients generally occurs in shallow waters during surface intervals. This action actively transports Nitrogen from the deep ocean towards the surface, increasing primary productivity in the near surface waters. A spatially explicit, nutrient transport model was developed to estimate the daily, vertical nitrogen transport by oceanic cetaceans in the Gulf of Mexico. Those values were compared to a physical-biogeochemical model to relate those values in terms of the standing stock of Nitrogen in the near-surface waters.\n\n\n\n\nWoodstock, M.S., J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (in review.). Cetacean-mediated nitrogen transport in the oceanic Gulf of Mexico.\n\n\n\n\nDalhousie University Marine Environmental Modelling Group Deep-Pelagic Nekton Dynamics of the Gulf of Mexico Ensenada Center for Scientific Research and Higher Education (CICESE) Florida International University Fisheries and Ecosystem Assessment Lab Florida International Unviersity Marine Conservation Ecology Lab"
+    "text": "Oceanic cetaceans routinely dive to deep (greater than 200m) depths in search of food and then return to the surface to breathe. Due to physiological conditions, the excretion of nutrients generally occurs in shallow waters during surface intervals. This action actively transports Nitrogen from the deep ocean towards the surface, increasing primary productivity in the near surface waters. A spatially explicit, nutrient transport model was developed to estimate the daily, vertical nitrogen transport by oceanic cetaceans in the Gulf of Mexico. Those values were compared to a physical-biogeochemical model to relate those values in terms of the standing stock of Nitrogen in the near-surface waters.\n\n\n\n\nWoodstock, M.S., J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (2023). Cetacean-mediated nitrogen transport in the oceanic realm. Limnology and Oceanography. Link to Paper\n\n\n\n\n\n\nNitrogen transported from each depth layer by all cetaceans. Each panel displays a different cetacean species that was a contributor to the nutrient movement. Cetacean graphics by Uko Gorter\n\n\n\n\n\n\n\nDalhousie University Marine Environmental Modelling Group Deep-Pelagic Nekton Dynamics of the Gulf of Mexico Ensenada Center for Scientific Research and Higher Education (CICESE) Florida International University Fisheries and Ecosystem Assessment Lab Florida International Unviersity Marine Conservation Ecology Lab"
   },
   {
     "objectID": "projects/diet_parasites_gom/index.html",
@@ -82,5 +82,215 @@
     "title": "Research Projects",
     "section": "",
     "text": "Click on a project to view it’s individual page.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarbon Export by Mesopelagic Fishes in the Gulf of Mexico\n\n\n\n\n\n\n\n\n\n\n\n\n\nNitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrophic Ecology of Mesopelagic Fishes in the Gulf of Mexico\n\n\n\n\n\n\n\n\n\n\n\n\n\nEcosystem Modeling in the Oceanic Gulf of Mexico\n\n\n\n\n\n\n\n\n\n\n\n\n\nConflict Between Marine Mammals and Seabirds with Fisheries in the Southern North Sea\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegional Economic Impacts of Oyster Restoration and Seagrass Die-off In Virginia’s Middle Peninsula\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#recent-publications",
+    "href": "index.html#recent-publications",
+    "title": "Home",
+    "section": "",
+    "text": "Woodstock, Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, and Zhang (2023) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. \nRichards, Sutton, Woodstock, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. Progress in Oceanography. \nWoodstock and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. \nWoodstock, Sutton, and Zhang (2022) A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography."
+  },
+  {
+    "objectID": "index.html#ongoing-projects",
+    "href": "index.html#ongoing-projects",
+    "title": "Home",
+    "section": "",
+    "text": "You can view the individual page to each of my current projects in the Research Tab:\n\nRegional Economic Impacts of Oyster Reef Restoration and Seagrass Die-off in the Virginia Middle Peninsula\nEcosystem-Based Modeling in the Oceanic Gulf of Mexico\nVertical Nitrogen Transport by Cetaceans in the oceanic Gulf of Mexico"
+  },
+  {
+    "objectID": "projects/cetacean_nitrogen_transport/index.html#synopsis-of-work",
+    "href": "projects/cetacean_nitrogen_transport/index.html#synopsis-of-work",
+    "title": "Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico",
+    "section": "",
+    "text": "Oceanic cetaceans routinely dive to deep (greater than 200m) depths in search of food and then return to the surface to breathe. Due to physiological conditions, the excretion of nutrients generally occurs in shallow waters during surface intervals. This action actively transports Nitrogen from the deep ocean towards the surface, increasing primary productivity in the near surface waters. A spatially explicit, nutrient transport model was developed to estimate the daily, vertical nitrogen transport by oceanic cetaceans in the Gulf of Mexico. Those values were compared to a physical-biogeochemical model to relate those values in terms of the standing stock of Nitrogen in the near-surface waters."
+  },
+  {
+    "objectID": "projects/cetacean_nitrogen_transport/index.html#publications",
+    "href": "projects/cetacean_nitrogen_transport/index.html#publications",
+    "title": "Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico",
+    "section": "",
+    "text": "Woodstock, M.S., J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (2023). Cetacean-mediated nitrogen transport in the oceanic realm. Limnology and Oceanography. Link to Paper\n\n\n\n\n\n\nNitrogen transported from each depth layer by all cetaceans. Each panel displays a different cetacean species that was a contributor to the nutrient movement. Cetacean graphics by Uko Gorter"
+  },
+  {
+    "objectID": "projects/cetacean_nitrogen_transport/index.html#collaborators",
+    "href": "projects/cetacean_nitrogen_transport/index.html#collaborators",
+    "title": "Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico",
+    "section": "",
+    "text": "Dalhousie University Marine Environmental Modelling Group Deep-Pelagic Nekton Dynamics of the Gulf of Mexico Ensenada Center for Scientific Research and Higher Education (CICESE) Florida International University Fisheries and Ecosystem Assessment Lab Florida International Unviersity Marine Conservation Ecology Lab"
+  },
+  {
+    "objectID": "projects/oyster_restore_va/index.html#synopsis-of-work",
+    "href": "projects/oyster_restore_va/index.html#synopsis-of-work",
+    "title": "Regional Economic Impacts of Oyster Restoration and Seagrass Die-off In Virginia’s Middle Peninsula",
+    "section": "",
+    "text": "Oysters and seagrass provide a wide suite of benefits to the Chesapeake Bay ecosystem, but these foundational habitats have been reduced by overharvesting, climate change, and poor water quality conditions. An extensive restoration effort is ongoing to restore 10 Chesapeake Bay tributaries by 2025, two of which being the York and Piankatank Rivers in Virginia’s Middle Peninsula. Meanwhile, seagrass monitoring surveys have shown little recovery of the once dominant Eelgrass (Zostera marina). Two ecosystem models are being developed with the Ecopath with Ecosim software to simulate the effects of varying degrees of habitat change within the system. The results will be input into an economic-impact model modified to fit the expenditures of local, commercial fishers in order to estimate the regional economic impacts of oyster restoration and seagrass die-off in the Virginia Middle Peninsula and provide Managers with an estimation of the benefits associated with restoration."
+  },
+  {
+    "objectID": "projects/oyster_restore_va/index.html#in-the-media",
+    "href": "projects/oyster_restore_va/index.html#in-the-media",
+    "title": "Regional Economic Impacts of Oyster Restoration and Seagrass Die-off In Virginia’s Middle Peninsula",
+    "section": "",
+    "text": "Virginia Middle Peninsula Selected as a New NOAA Habitat Focus Area"
+  },
+  {
+    "objectID": "projects/oyster_restore_va/index.html#presentations",
+    "href": "projects/oyster_restore_va/index.html#presentations",
+    "title": "Regional Economic Impacts of Oyster Restoration and Seagrass Die-off In Virginia’s Middle Peninsula",
+    "section": "",
+    "text": "Hoyt, E.E., M.S. Woodstock, P. Piavis, D. Sanderson-Kilchenstein, T. Ihde. (2023). An exploration of natural mortality and maximum age for Chesapeake Bay fishes. American Fisheries Society National Meeting. Grand Rapids, MI. Poster\nBevans, A.T., M. Sulyman, M.S. Woodstock, S. Knoche, T. Ihde. (2023). Modeling habitat change effects in the York River ecosystem, Chesapeake Bay. American Fisheries Society National Meeting. Grand Rapids, MI.\nWoodstock, M.S., A.T. Bevans, M. Sulyman, S. Knoche, T. Ihde. (2023). The ecosystem-scale impacts of living habitat change in Virginia’s Middle Peninsula. American Fisheries Society National Meeting. Grand Rapids, MI.\nBevans, A.T., M. Sulyman, M.S. Woodstock, S. Knoche, T. Ihde. (2023). Improving our understanding of habitat changes in the Chesapeake Bay with a York River ecosystem model. York River Science Symposium, Gloucester, VA. Poster\nBevans, A.T., M. Sulyman, M.S. Woodstock, S. Knoche, T. Ihde. (2023). Improving our understanding of habitat changes in the Chesapeake Bay with a York River ecosystem model. Morgan State University Spring Into Research Graduate Symposium. Baltimore, MD.\nSulyman, M., A.T. Bevans, M.S. Woodstock, S. Knoche, T.F. Ihde. (2023). Virginia’s Middle Peninsula Habitat Focus Area: the Economic Impacts of Resource Restoration and Habitat Change. Morgan State University Spring Into Research Graduate Symposium. Baltimore, MD. Poster\nHoyt, E.E., M.S. Woodstock, T.F. Ihde. (2023). An exploration of age and growth estiamtes for fishes in the Chesapeake Bay. American Fisheries Society Tidewater Chapter Meeting. Solomon’s Island, MD. Poster\nBevans, A.T., M. Sulyman, M.S. Woodstock, S. Knoche, T. Ihde. (2023). Improving our understanding of habitat changes in the Chesapeake Bay with a York River ecosystem model. American Fisheries Society Tidewater Chapter Meeting. Solomon’s Island, MD. Poster\nHoyt, E.E., M.S. Woodstock, T.F. Ihde. (2022). A case for tributary-specific age/growth estimates for fishes in the Chesapeake Bay. Chesapeake Watershed Forum. Southern Maryland Marine Science Symposium. St. Mary’s, MD. Poster\nBevans, A.T., M. Sulyman, M.S. Woodstock, S. Knoche, T. Ihde. (2022). Virginia’s Middle Peninsula Habitat Focus Area: the Economic Impacts of Resource Restoration and Habitat Change. Southern Maryland Marine Science Symposium. St. Mary’s, MD. Poster\nBevans, A.T., M. Sulyman, M.S. Woodstock, S. Knoche, T. Ihde. (2022). Estimating the Commercial Fishing Effects of Habitat Restoration in Virginia’s Middle Peninsula. Chesapeake Oyster Alliance Meeting.\nHoyt, E.E., M.S. Woodstock, T.F. Ihde. (2022). A case for tributary-specific age/growth estimates for fishes in the Chesapeake Bay. Chesapeake Watershed Forum. Shepardstown, WV. Poster\nSulyman, M., A.T. Bevans, M.S. Woodstock, S. Knoche, T.F. Ihde. (2022). Virginia’s Middle Peninsula Habitat Focus Area: the Economic Impacts of Resource Restoration and Habitat Change. Chesapeake Watershed Forum. Shepardstown, WV. Poster"
+  },
+  {
+    "objectID": "projects/oyster_restore_va/index.html#collaborators",
+    "href": "projects/oyster_restore_va/index.html#collaborators",
+    "title": "Regional Economic Impacts of Oyster Restoration and Seagrass Die-off In Virginia’s Middle Peninsula",
+    "section": "",
+    "text": "Chesapeake Bay Multispecies Monitoring and Assessment Program Chesapeake Bay National Estuarine Research Reserve in Virginia Morgan State University Patuxent Environmental and Aquatic Research Lab NOAA Chesapeake Bay Office Virginia Institute of Marine Science Molluscan Ecology Lab Virginia Marine Resources Commission Virginia Institute of Marine Science Seagrass Monitoring and Restoration Lab"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Woodstock, M.S., Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, Zhang (accepted) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. (Email for pre-print)\nRichards, T.M., T.T. Sutton., M.S. Woodstock, H. Judkins, D. Wells. (2023). Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "",
+    "text": "Woodstock, M.S. (2022). Ecological modeling in the oceanic zone: A Gulf of Mexico case study. Doctoral Dissertation. Florida International University. Email for pdf\nWoodstock, M.S., Y. Zhang. (2022). Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. 188:103851 \nWoodstock, M.S., T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. 67:1443–1455. \nKiszka, J.J., M.S., Woodstock, M. Heithaus. (2022). Functional roles and ecological importance of small cetaceans in aquatic ecosystems. Frontiers in Marine Science."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "",
+    "text": "Woodstock, M.S., T.T. Sutton, T. Frank, Y. Zhang. (2021). An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Ecological Modelling. 445:109509."
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "",
+    "text": "Woodstock, M.S., C.A. Blanar, T.T. Sutton. (2020). Diet and parasites of a mesopelagic fish assemblage in the Gulf of Mexico. Marine Biology. 167:184"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "",
+    "text": "Beck, H.N., A. Cohen, T. McKenzie, R. Weisend, K.W. Wikins, M.S. Woodstock. (2019). Broadening Horizons: Graduate Students Participating in International Collaborations Through the Limnology and Oceanography Research Exchange (LOREX) Program. Limnology and Oceanography Bulletin. 28:85–89. \nWoodstock, M.S., C. Golightly, D. Fenolio, J.A. Moore. (2019). Larsonia pterophylla (Cnidaria, Pandeidae) parasitic on two Anguilliformes: Paraconger sp. (Congridae) and Callenchelyini sp. (Ophichthidae) in the Gulf of Mexico. Gulf and Caribbean Research. 30:SC7–10."
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "",
+    "text": "Woodstock, M.S.. (2018). Trophic Ecology and Parasitism of a Mesopelagic Fish Assemblage. Nova Southeastern University. Master’s Thesis."
+  },
+  {
+    "objectID": "projects/Ecosystem_modeling_gom/index.html#synopsis-of-work",
+    "href": "projects/Ecosystem_modeling_gom/index.html#synopsis-of-work",
+    "title": "Ecosystem Modeling in the Oceanic Gulf of Mexico",
+    "section": "",
+    "text": "Ecosystem modeling is a popular technique to incorporate all components of an ecosystem within one model framework to simultaneously forcast population trends in response to disturbances. Following the 2010 Deepwater Horizon oil spill, questions surrounding the stability of the deep-pelagic (water column deeper than 200m) ecosystem have arisen. I have developed an ecosystem model using the Ecopath with Ecosim framework that incorporates the latest data regarding the oceanic ecosystem in the northern oceanic Gulf of Mexico. Ongoing objectives involve estimating the mortality exerted to deep-sea organisms after the oil spill, forecasting population trends, improving the efficacy of the model, and detailed sensitivity analyses."
+  },
+  {
+    "objectID": "projects/Ecosystem_modeling_gom/index.html#publications",
+    "href": "projects/Ecosystem_modeling_gom/index.html#publications",
+    "title": "Ecosystem Modeling in the Oceanic Gulf of Mexico",
+    "section": "",
+    "text": "Woodstock, M.S., T.T. Sutton, T. Frank, K. Fennel, B. Wang, F. Hernandez, Y. Zhang. (in review). Mesopelagic micronekton mortality regimes and ecosystem functioning in the oceanic Gulf of Mexico following the 2010 Deepwater Horizon oil spill.\nWoodstock, M.S., Y. Zhang. (2022). Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. 188:103851 Link to Paper\n\n\n\n\n\n\nThe results of a systematic literature review for all deep-sea ecosystem modelling studies through October 2021.\n\n\n\n\n\n\nWoodstock, M.S., T.T. Sutton, T. Frank, Y. Zhang. (2021). An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Ecological Modelling. 445:109509. Link to Paper\n\n\n\n\n\n\nFollowing the 2010 Deepwater Horizon oil spill, apporximately 1/4 of all trophic interactions changed in strength from 2011–2018."
+  },
+  {
+    "objectID": "projects/Ecosystem_modeling_gom/index.html#presentations",
+    "href": "projects/Ecosystem_modeling_gom/index.html#presentations",
+    "title": "Ecosystem Modeling in the Oceanic Gulf of Mexico",
+    "section": "",
+    "text": "Sutton, T., Z. Milligan, K. Boswell, H. Bracken-Grissom, A. Cook, T. Frank, D. Hahn, M. Johnston, H. Judkins, J. Moore, J. Moore, J. Quinlan, P. Peres, I. Romero, M. Vecchione, M. Shivji, A. Bernard, M. D’Elia, M. Woodstock, Y. Zhang, K. Benson, M. Karnauskas, F. Parker. (2022). The state of the pelagic Gulf of Mexico: the continuing mission of the DEEPEND research consortium. The Gulf of Mexico Conference.\nSutton, T.T., A.B. Cook, K.M. Boswell, H.D. Bracken-Grissom, R. Eytan, D. Fenolio, T. Frank, D. Hahn, M.W. Johnston, H. Judkins, R.J. Milligan, J. Moore, J. Quinlan, T. Richards, I.C. Romero, M. Shivji, A. Bernard, M. Vecchione, M.S. Woodstock, Y. Zhang. (2022). Sustained observation of the deep-pelagic Gulf of Mexico: the DEEPEND|RESTORE program. ASLO Ocean Sciences Meeting. Online Presentation. Poster\nWoodstock, M.S., T.T. Sutton, T. Frank, Y. Zhang. (2021). Assessing trophic structure dynamics in ecosystem models using the offshore Gulf of Mexico as an example. ASLO Aquatic Sciences Meeting. Online Presentation.\nWoodstock, M.S., T.T. Sutton, T. Frank, Y. Zhang. (2021). Ecosystem modeling in the oceanic zone: A Gulf of Mexico case study. 16th Deep Sea Biology Symposium. Brest, France. Poster\nWoodstock, M.S., T.T. Sutton, T. Frank, Y. Zhang. (2020). Assessing trophic structure dynamics in ecosystem models using the offshore Gulf of Mexico as an example. American Fisheries Society Annual Meeting. Online Presentation.\nWoodstock, M.S., T.T. Sutton, T. Frank, Y. Zhang. (2020). An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Deep Sea Biology Society Meeting. Online Presentation.\nWoodstock, M.S., B. Wang, K. Fennel, T.T. Sutton, Y. Zhang. (2020). Ecological importance of mesopelagic fishes in the oceanic Gulf of Mexico. Florida International University Biosymposium. North Miami, FL.\nWoodstock, M.S., B. Wang, K. Fennel, T.T. Sutton, Y. Zhang (2020). A comparison of two ecosystem models of the oceanic Gulf of Mexico. Ocean Sciences Meeting. San Diego, CA. Poster\nQuiquempois, V., M.S. Woodstock, Y. Zhang, M. Heithaus, J. Kiszka. (2019). The top-down effects of cetaceans in the Gulf of Mexico: Who are the key players? World Marine Mammal Conference. Barcelona, Spain.\nWoodstock, M.S. (2019). Food web model of the oceanic Gulf of Mexico. Florida International University Biosymposium. North Miami, FL."
+  },
+  {
+    "objectID": "projects/Ecosystem_modeling_gom/index.html#collaborators",
+    "href": "projects/Ecosystem_modeling_gom/index.html#collaborators",
+    "title": "Ecosystem Modeling in the Oceanic Gulf of Mexico",
+    "section": "",
+    "text": "Dalhousie University Marine Environmental Modelling Group Deep-Pelagic Nekton Dynamics of the Gulf of Mexico Florida International University Fisheries and Ecosystem Assessment Lab University of Southern Mississippi Fisheries Oceanography and Ecology Lab"
+  },
+  {
+    "objectID": "projects/Carbon_export_mesopelagics/index.html#synopsis-of-work",
+    "href": "projects/Carbon_export_mesopelagics/index.html#synopsis-of-work",
+    "title": "Carbon Export by Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "The active transport of carbon from the epipelagic zone (0–200m) into the deep-pelagic zone (water column deeper than 200m) occupies a significant contribution to the biological carbon pump and serves to aid in carbon sequestration into the deep sea. Carbon export modeling is generally an extension of bioenergetic modeling, applying energetic rates with life history parameters to estimate carbon ingestion and release. Through this effort, I have developed a trait-based model that runs on an individual scale, allowing for comparisons among species and size classes. In the oceanic Gulf of Mexico, the mesopelagic micronekton fish community actively transports between 11 and 24% of the total dissolved organic carbon in the water column each year, an act primarily led by lanternfishes. Ongoing efforts aim to improve on the model structure (R-based), incorporate new processes, and refine carbon export estimates for the carbon export of mesopelagic fishes in the Gulf of Mexico."
+  },
+  {
+    "objectID": "projects/Carbon_export_mesopelagics/index.html#publications",
+    "href": "projects/Carbon_export_mesopelagics/index.html#publications",
+    "title": "Carbon Export by Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Woodstock, M.S., T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. 67:1443–1455. Link to Paper\n\n\n\n\n\n\nThe assemblage-scale results of the carbon export of mesopelagic fishes in the Gulf of Mexico. Image of Diaphus mollis by Danté Fenolio|DEEPEND"
+  },
+  {
+    "objectID": "projects/Carbon_export_mesopelagics/index.html#presentation",
+    "href": "projects/Carbon_export_mesopelagics/index.html#presentation",
+    "title": "Carbon Export by Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Woodstock, M.S., T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. ASLO Ocean Sciences Meeting. Online Presentation."
+  },
+  {
+    "objectID": "projects/Carbon_export_mesopelagics/index.html#collaborators",
+    "href": "projects/Carbon_export_mesopelagics/index.html#collaborators",
+    "title": "Carbon Export by Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Deep-Pelagic Nekton Dynamics of the Gulf of Mexico Florida International University Fisheries and Ecosystem Assessment Lab"
+  },
+  {
+    "objectID": "projects/diet_parasites_gom/index.html#synopsis-of-work",
+    "href": "projects/diet_parasites_gom/index.html#synopsis-of-work",
+    "title": "Diet and Parasites of Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Trophic ecology studies in the mesopelagic zone generally center around diet composition or stable isotopes. However, internal parasites can provide insight into the trophic structure of an ecosystem, such as the specificity of predator diets, and foodweb topology. I compared the diet and parasite communities of 26 mesopelagic fish species from the Gulf of Mexico. Unlike other ecosystems, the parasite community of the deep-pelagic zone was very scarce, and only 1 in every 10 fishes contained a single parasite. However, I was still able to gather evidence that predators of fishes and squids were more likely to be infected by a parasite than predators of small zooplankton, and the parasite community of a fish species was influenced by the diet of that species, suggesting some degree of specificity among mesopelagic fish diets."
+  },
+  {
+    "objectID": "projects/diet_parasites_gom/index.html#publications",
+    "href": "projects/diet_parasites_gom/index.html#publications",
+    "title": "Diet and Parasites of Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Woodstock, M.S., C.A. Blanar, T.T. Sutton. (2020). Diet and parasites of a mesopelagic fish assemblage in the Gulf of Mexico. Marine Biology. 167:184. Link to paper\n\n\n\n\n\n\nMany parasites in aquatic food webs use different hosts and are transferred as the current host is ingested by a larger organism. Fishes of deep-sea fishes are by by Danté Fenolio|DEEPEND"
+  },
+  {
+    "objectID": "projects/diet_parasites_gom/index.html#presentations",
+    "href": "projects/diet_parasites_gom/index.html#presentations",
+    "title": "Diet and Parasites of Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Woodstock, M.S., C.A. Blanar, T.T. Sutton. (2018). Trophic ecology and parasitism of a mesopelagic fish assemblage. Nova Southeastern University Biosymposium. Dania Beach, FL.\nWoodstock, M.S., C.A. Blanar, T.T. Sutton. (2018). On parasitism in mesopelagic fishes as a function of trophic ecology and vertical distribution. Deep Sea Biological Society Meeting. Monterey Bay, CA. Poster\nWoodstock, M.S., T.T. Sutton, C.A. Blanar. (2018). Trophic ecology and parasitism of a deep-pelagic fish assemblage. American Society of Parasitologists Annual Meeting. Cancun, Mexico. Poster\nWoodstock, M.S., C.A. Blanar, T.T. Sutton. (2017). An examination of the parasites and trophic ecology of mesopelagic fishes. American Fisheries Society Annual Meeting. Tampa, FL.\nWoodstock, M.S., C.A. Blanar, T.T. Sutton (2017). An examination of the parasites and trophic ecology of mesopelagic fishes. American Society of Ichthyologists and Herpetologists Annual Meeting. Austin, TX.\nWoodstock, M.S., C.A. Blanar, T.T. Sutton. (2017). Variations in the parasite fauna and gut contents of vertically migrating and non-migrating mesopelagic fishes of the northern Gulf of Mexico. Gulf of Mexico Oil Spill and Ecosystem Science Conference. New Orleans, LA. Poster"
+  },
+  {
+    "objectID": "projects/diet_parasites_gom/index.html#collaborators",
+    "href": "projects/diet_parasites_gom/index.html#collaborators",
+    "title": "Diet and Parasites of Mesopelagic Fishes in the Gulf of Mexico",
+    "section": "",
+    "text": "Blanar Parasitology Lab, Nova Southeastern University Deep-Pelagic Nekton Dynamics of the Gulf of Mexico"
+  },
+  {
+    "objectID": "projects/mammal_fisheries_competition_ns/index.html#synopsis-of-work",
+    "href": "projects/mammal_fisheries_competition_ns/index.html#synopsis-of-work",
+    "title": "Conflict Between Marine Mammals and Seabirds with Fisheries in the Southern North Sea",
+    "section": "",
+    "text": "Since the early 1990’s, marine mammal populations (particularly seals) have increased in the southern North Sea and eastern English Channel. Concurrently, seabird populations have fluctuated since the early 1990s and fish stocks have been under tight regulation. Since there is often overlap between top predator diets and fisheries target species, an increase to top predators can create a perception of competition for resources. An ecosystem model has been developed for the Ecopath with Ecosim software to explore this perceived competition.\n\n\n\n\n\nThe foodweb and general concept behind the Ecopath with Ecosim model."
+  },
+  {
+    "objectID": "projects/mammal_fisheries_competition_ns/index.html#presentations",
+    "href": "projects/mammal_fisheries_competition_ns/index.html#presentations",
+    "title": "Conflict Between Marine Mammals and Seabirds with Fisheries in the Southern North Sea",
+    "section": "",
+    "text": "Woodstock, M.S., J.J. Kizka, P.G.H. Evans, J.J. Waggitt, Y. Zhang. (2022). Debunking misconceptions: rising marine mammal abundances have little impact on fisheries in the southern North Sea. 24th Biennial Conference on the Biology of Marine Mammals. Palm Beach, FL. Poster\nWoodstock, M.S., J.J. Kiszka, P.G.H. Evans, J.J. Waggitt, Y. Zhang. (2021). Debunking Misconceptions: Marine mammals and seabirds have limited impacts on fisheries catches in the North Sea. Florida International University Biosymposium. Online Presentation."
+  },
+  {
+    "objectID": "projects/mammal_fisheries_competition_ns/index.html#collaborators",
+    "href": "projects/mammal_fisheries_competition_ns/index.html#collaborators",
+    "title": "Conflict Between Marine Mammals and Seabirds with Fisheries in the Southern North Sea",
+    "section": "",
+    "text": "Florida International University Fisheries and Ecosystem Assessment Lab Florida International Unviersity Marine Conservation Ecology Lab Marine Ecosystems Research Programme Sea Watch Foundation & School of Ocean Sciences, University of Bangor"
   }
 ]
