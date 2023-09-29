@@ -14,7 +14,7 @@ format:
 Since the early 1990's, marine mammal populations (particularly seals) have increased in the southern North Sea and eastern English Channel. Concurrently, seabird populations have fluctuated since the early 1990s and fish stocks have been under tight regulation. Since there is often overlap between top predator diets and fisheries target species, an increase to top predators can create a perception of competition for resources. An ecosystem model has been developed for the [Ecopath with Ecosim](www.ecopath.org) software to explore this perceived competition. 
 
 ```{r,echo=F, out.width="50%",fig.align= "left", fig.cap="The foodweb and general concept behind the Ecopath with Ecosim model."}
-knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/ewe_ns.png')
+knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Project_images/ewe_ns.png')
 ```
 
 

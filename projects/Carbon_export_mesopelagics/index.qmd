@@ -19,7 +19,7 @@ The active transport of carbon from the epipelagic zone (0–200m) into the deep
 * **Woodstock, M.S.**, T.T. Sutton, Y. Zhang. (2022). A trait-based carbon export model for mesopelagic fishes in the Gulf of Mexico with consideration of asynchronous vertical migration, flux boundaries, and feeding guilds. Limnology and Oceanography. 67:1443–1455. [Link to Paper](https://doi.org/10.1002/lno.12093)
 
 ```{r,echo=F, out.width="100%", fig.cap="The assemblage-scale results of the carbon export of mesopelagic fishes in the Gulf of Mexico. Image of <i>Diaphus mollis</i> by Danté Fenolio|DEEPEND"}
-knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/carbon_export.png')
+knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Project_images/carbon_export.png')
 ```
 
 

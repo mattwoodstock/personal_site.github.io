@@ -20,14 +20,14 @@ Ecosystem modeling is a popular technique to incorporate all components of an ec
 * **Woodstock, M.S.**, Y. Zhang. (2022). Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. 188:103851 [Link to Paper](https://doi.org/10.1016/j.dsr.2022.103851)
 
 ```{r,echo=F, out.width="100%", fig.cap="The results of a systematic literature review for all deep-sea ecosystem modelling studies through October 2021."}
-knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/Modeling_panel.png')
+knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Project_images/Modeling_panel.png')
 ```
 <br>
 
 * **Woodstock, M.S.**, T.T. Sutton, T. Frank, Y. Zhang. (2021). An early warning sign: trophic structure changes in the oceanic Gulf of Mexico from 2011–2018. Ecological Modelling. 445:109509. [Link to Paper](https://doi.org/10.1016/j.ecolmodel.2021.109509)
 
 ```{r,echo=F, out.width="100%", fig.cap="Following the 2010 <i>Deepwater Horizon</i> oil spill, apporximately 1/4 of all trophic interactions changed in strength from 2011–2018."}
-knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/early_warning_sign_graphical_abstract.jpg')
+knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Project_images/early_warning_sign_graphical_abstract.jpg')
 ```
 
 

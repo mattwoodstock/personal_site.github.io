@@ -1,7 +1,7 @@
 ---
 title: "Nitrogen Transport by Oceanic Cetaceans in the Gulf of Mexico"
 page-layout: full
-image: https://raw.githubusercontent.com/fishesofthedeep/personal_site.github.io/main/Project_images/N_Excretion.png
+image: https://raw.githubusercontent.com/fishesofthedeep/personal_site.github.io/main/Project_images/Cetacean_Graphical_Abstract.png
 format:
   html:
     css: assets/index.css
@@ -15,7 +15,13 @@ Oceanic cetaceans routinely dive to deep (greater than 200m) depths in search of
 
 
 ## Publications
-* **Woodstock, M.S.**, J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (in review.). Cetacean-mediated nitrogen transport in the oceanic Gulf of Mexico.
+* **Woodstock, M.S.**, J.J Kiszka, M.R. Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang. (2023). Cetacean-mediated nitrogen transport in the oceanic realm. Limnology and Oceanography. [Link to Paper](https://doi.org/10.1002/lno.12433)
+
+```{r,echo=F, out.width="100%", fig.cap="Nitrogen transported from each depth layer by all cetaceans (mmol N per day). Each panel displays a different cetacean species that was a contributor to the nutrient movement. Cetacean graphics by Uko Gorter"}
+knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Project_images/Cetacean_N_Transport.png')
+```
+
+
 
 
 ## Collaborators

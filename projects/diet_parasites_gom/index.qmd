@@ -1,5 +1,5 @@
 ---
-title: "Diet and Parasites of Mesopelagic Fishes in the Gulf of Mexico"
+title: "Trophic Ecology of Mesopelagic Fishes in the Gulf of Mexico"
 page-layout: full
 image: https://raw.githubusercontent.com/fishesofthedeep/personal_site.github.io/main/Project_images/parasite_diagram.png
 format:
@@ -15,10 +15,12 @@ Trophic ecology studies in the mesopelagic zone generally center around diet com
 
 
 ## Publications
+* Richards, T.T. Sutton, **M.S. Woodstock**, H. Judkins, and D. Wells. (2023). Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage.  [Link to paper](https://doi.org/10.1016/j.pocean.2023.102998)
+
 * **Woodstock, M.S.**, C.A. Blanar, T.T. Sutton. (2020). Diet and parasites of a mesopelagic fish assemblage in the Gulf of Mexico. Marine Biology. 167:184. [Link to paper](doi:10.1007/s00227-020-03796-6)
 
 ```{r,echo=F, out.width="100%", fig.cap="Many parasites in aquatic food webs use different hosts and are transferred as the current host is ingested by a larger organism. Fishes of deep-sea fishes are by by Danté Fenolio|DEEPEND"}
-knitr::include_graphics('C:/Users/fishe/OneDrive/Documents/Website_new/Woodstock_Website/Project_images/parasite_diagram.png')
+knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Project_images/parasite_diagram.png')
 ```
 
 
