@@ -27,7 +27,7 @@ knitr::include_graphics('C:/Users/Matt Woodstock/Documents/Woodstock_Website/Pro
 ## Collaborators
 [Dalhousie University Marine Environmental Modelling Group](https://memg.ocean.dal.ca/index.html)<br>
 [Deep-Pelagic Nekton Dynamics of the Gulf of Mexico](https://www.deependconsortium.org)<br>
-[Ensenada Center for Scientific Research and Higher Education (CICESE)](https://www.cicese.edu.mx/)
+[Ensenada Center for Scientific Research and Higher Education (CICESE)](https://www.cicese.edu.mx/)<br>
 [Florida International University Fisheries and Ecosystem Assessment Lab](https://www.fiufeal.com/)<br>
 [Florida International Unviersity Marine Conservation Ecology Lab](https://marineconservationecologylab.com/)<br>
 :::
