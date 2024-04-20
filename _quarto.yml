@@ -28,20 +28,20 @@ website:
         href: about.qmd
     right:
       - icon: envelope
-        href: mailto:matthew.woodstock@morgan.edu
+        href: mailto:fishesofthedeep@gmail.com
       - icon: twitter
         href: https://twitter.com/fishesarefrandz
   page-footer:
     left: |
       <b>Matthew S. Woodstock, Ph.D.</b> <br>
-      Postdoctoral Research Fellow<br>
-      Morgan State University Patuxent Environmental and Aquatic Research Laboratory<br>
-      © Copyright 2022 Matt Woodstock
+      Postdoctoral Scholar<br>
+      Woods Hole Oceanographic Institution<br>
+      © Copyright 2023 Matt Woodstock
     right: |
       <i class="fab fa-twitter"></i> <a href="https://twitter.com/fishesarefrandz">@fishesarefrandz</a> on Twitter <br>
-      <i class="fab fa-github"></i> <a href="https://github.com/mwood078">mwood078</a> on GitHub <br>
-      <i class="fas fa-envelope"></i> <a href="mailto:matthew.woodstock@morgan.edu">matthew.woodstock@morgan.edu</a><br>
-      <i class="fas fa-map-marker-alt"></i> Maryland, USA
+      <i class="fab fa-github"></i> <a href="https://github.com/fishesofthedeep">fishesofthedeep</a> on GitHub <br>
+      <i class="fas fa-envelope"></i> <a href="mailto:fishesofthedeep@gmail.com">fishesofthedeep@gmail.com</a><br>
+      <i class="fas fa-map-marker-alt"></i> Woods Hole, MA, USA
     border: true
     background: primary
 format:
@@ -52,5 +52,3 @@ format:
       <link rel="stylesheet" href="assets/syntax-highlight.css">
       <link rel="stylesheet" href="assets/fontawesome-free-6.1.1-web/css/all.min.css">
       <script src="assets/fontawesome-free-6.1.1-web/js/all.min.js"></script>
-
-

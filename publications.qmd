@@ -49,31 +49,3 @@ format:
 * **Woodstock, M.S.**. (2018). Trophic Ecology and Parasitism of a Mesopelagic Fish Assemblage. Nova Southeastern University. Master's Thesis. [<i class="fa-solid fa-link"></i>](https://nsuworks.nova.edu/occ_stuetd/469/)
 
 :::
-
-::: {.main style="width:40%; float: left;"}
-
-```{r, echo=F,out.width="100%"}
-  defaultW <- getOption("warn") 
-  options(warn = -1) 
-  library(scholar)
-  library(ggplot2)
-  library(scales)
-  cit <- get_citation_history('UtMzPDQAAAAJ')
-  cites <- scholar::get_profile('UtMzPDQAAAAJ')$total_cites
-  h_ind <- scholar:: get_profile('UtMzPDQAAAAJ')$h_index
-  ggplot(cit[cit$year < 2024,],aes(x=year,y=cites))+
-    geom_hline(yintercept = mean(cit$cites),linetype="dashed")+
-    geom_bar(stat='identity',aes(fill=cites))+
-    theme_classic()+
-    scale_y_continuous(breaks = pretty_breaks())+
-    scale_fill_gradient(low="white",high="blue",limits=c(0,max(cit$cites)))+
-    theme(axis.text = element_text(size=14),axis.title = element_text(size=16),plot.background = element_rect(fill="transparent",color="transparent"),panel.background = element_rect(fill="transparent",color="transparent"),title = element_text(size=16),legend.position = "none")+
-    ggtitle(paste("Matt Woodstock's Google Scholar Citations\nTotal Citations: ",cites,"\nh-index: ",h_ind,sep=""))+
-    xlab('Year of Citation')+
-    ylab('Google Scholar\n Citations')+
-    annotate('text',label=format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"),x=-Inf,y=Inf,vjust=1.5,hjust=-0.05,size=4,colour='gray')+
-    annotate('text',label=paste("Average Cites per Year: ",round(mean(cit$cites),1),sep=""),x=-Inf,y=mean(cit$cites)+0.5,hjust=-0.05,size=4,colour='black',alpha=.8)
-options(warn = defaultW)
-
-```
-:::
