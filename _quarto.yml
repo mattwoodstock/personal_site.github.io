@@ -28,7 +28,7 @@ website:
         href: about.qmd
     right:
       - icon: envelope
-        href: mailto:fishesofthedeep@gmail.com
+        href: mailto:msw200@miami.edu
       - icon: twitter
         href: https://twitter.com/fishesarefrandz
   page-footer:
@@ -39,8 +39,8 @@ website:
       © Copyright 2023 Matt Woodstock
     right: |
       <i class="fab fa-twitter"></i> <a href="https://twitter.com/fishesarefrandz">@fishesarefrandz</a> on Twitter <br>
-      <i class="fab fa-github"></i> <a href="https://github.com/fishesofthedeep">fishesofthedeep</a> on GitHub <br>
-      <i class="fas fa-envelope"></i> <a href="mailto:fishesofthedeep@gmail.com">fishesofthedeep@gmail.com</a><br>
+      <i class="fab fa-github"></i> <a href="https://github.com/mattwoodstock">mattwoodstock</a> on GitHub <br>
+      <i class="fas fa-envelope"></i> <a href="mailto:msw200@miami.edu">msw200@miami.edu</a><br>
       <i class="fas fa-map-marker-alt"></i> Woods Hole, MA, USA
     border: true
     background: primary

@@ -10,9 +10,13 @@ format:
 ::: {.main style="width:60%; float: left;"}
 <i> If you have trouble accessing any of these, please [email me](mailto:matthew.woodstock@morgan.edu).</i>
 
-## 2023
-* **Woodstock, M.S.**, J.J. Kiszka, M. Rafael Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang (accepted) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12093)
+## 2024
+* <b>Woodstock, M.S.</b>, A. T. Bevans, M. Sulyman, J. Maples, S. Knoche, T. F. Ihde. (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling.
 
+* Martin A. P., A. B. Dominguez, C. A. Baker, C. M. J. Baumas, K. M. Bisson, E. Cavan, M. Freilich, E. Galbraith, M. Gali, S. Hensen, K. F. Kvale, C. Lemmen, L. Y. Luo, H. McMonagle, F. deM. Virissimo, K. O. Moller, C. Richon, I. Suresh, J. D. Wison, <b>M. S. Woodstock</b>, A. Yool. (2024) When to add a new process to a model, and when not: A marine biogeochemical perspective. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2024.110870)
+
+## 2023
+* **Woodstock, M.S.**, J.J. Kiszka, M. Rafael Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang (2024) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12093)
 
 * Richards, T.M., T.T. Sutton., **M.S. Woodstock**, H. Judkins, D. Wells. (2023). Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.pocean.2023.102998)
 

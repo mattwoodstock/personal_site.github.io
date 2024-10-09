@@ -14,7 +14,7 @@ about:
       href: https://www.linkedin.com/in/matt-woodstock-ph-d-11556269/
     - icon: github
       text: Github
-      href: https://github.com/fishesofthedeep
+      href: https://github.com/mattwoodstock
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=UtMzPDQAAAAJ&hl=en
@@ -34,18 +34,18 @@ format:
 :::
 
 
-I'm a Postdoctoral Scholar at [Woods Hole Oceanographic Institution](https://www.whoi.edu).
+I'm an Assistant Scientist at the [Cooperative Institute for Marine and Atmospheric Sciences](https://cimas.earth.miami.edu/) working closely with the [NOAA Southeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center).
 
 My **research interests** are:
 
 * [Ecosystem-based modeling]{.highlight-color} of aquatic systems
-* [Consumer-mediated nutrient transport modeling]{.highlight-color}
 * Comparisons of [ecosystem functioning]{.highlight-color} across ecosystem borders
-* [Trophic ecology]{.highlight-color} of mesopelagic fishes
 * [Network Analysis]{.highlight-color}
+* [Consumer-mediated nutrient transport modeling]{.highlight-color}
+* [Trophic ecology]{.highlight-color} of oceanic fishes
 * [Data visualization]{.highlight-color} and [visual inference]{.highlight-color}
 
-I am proficient in **R** (base + tidyverse), **Primer**, and **Ecopath with Ecosim** and have working knowledge of **Julia**, **OSMOSE** (Java-based), **QGIS** (Python-based) and **Atlantis**. I also have a rudimentary understanding of **Bash**, primarily for running models on servers. I've lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, and Maryland. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in **R**. For the creation of this website, I also gained the experience of some front-end web development (**HTML/CSS/JS**).
+I am proficient in **R** (base + tidyverse), **Julia**, **Primer**, and **Ecopath with Ecosim** and have working knowledge of **Bash**, **OSMOSE** (Java-based), **QGIS** (Python-based) and **Atlantis**. I've lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, Maryland, and Massachusetts. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in **R**. For the creation of this website, I also gained the experience of some front-end web development (**HTML/CSS/JS**).
 
 
 I am a big advocate of [open science](https://en.wikipedia.org/wiki/Open_science) and I try to deposit my code on **GitHub**. Please contact me for any code that you may like to utilize and/or any potential collaborations.
@@ -59,13 +59,13 @@ df <- data.frame(what = c('<i class="fab fa-twitter"></i>',
                            '<i class="fas fa-envelope"></i>',
                            '<i class="fas fa-map-marker-alt"></i>'),
                  where = c("[fishesarefrandz](https://twitter.com/fishesarefrandz)",
-                           "[fishesofthedeep](https://github.com/fishesofthedeep)",
-                           "[fishesofthedeep@gmail.com](mailto:fishesofthedeep@gmail.com)",
-                           "Woods Hole Oceanographic Institution<br>45 Water St.<br>Falmouth, MA, USA 02543"))
+                           "[fishesofthedeep](https://github.com/mattwoodstock)",
+                           "[msw200@miami.edu](mailto:msw200@miami.edu)",
+                           "Cooperative Institute for Marine and Atmospheric Sciences<br>Rosenstiel School of Marine, Atmospheric, and Earth Science<br>4600 Rickenbacker Causeway<br>Miami, FL, USA 33149"))
 knitr::kable(df, col.names = c("", ""), escape = FALSE)
 ```
 
 If you would like access to one of my papers or would like to collaborate on a research project or grant, **please send me an email**.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2987.0851080959583!2d-70.67194548797343!3d41.524097071163176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e4d880a9b66d97%3A0x9d76c1ee238c56da!2sRedfield%20Laboratory!5e0!3m2!1sen!2sus!4v1696020388492!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14376.497697177136!2d-80.1624474!3d25.7333986!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b520f72a5929%3A0x633e0a17b48e212b!2sRosenstiel%20School%20of%20Marine%2C%20Atmospheric%2C%20and%20Earth%20Science!5e0!3m2!1sen!2sus!4v1728502855767!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
