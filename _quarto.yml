@@ -34,14 +34,14 @@ website:
   page-footer:
     left: |
       <b>Matthew S. Woodstock, Ph.D.</b> <br>
-      Postdoctoral Scholar<br>
-      Woods Hole Oceanographic Institution<br>
-      © Copyright 2023 Matt Woodstock
+      Assistant Scientist, Cooperative Institute for Marine and Atmospheric Sciences<br>
+      Affiliate, NOAA Southeast Fisheries Science Center<br>
+      © Copyright 2024 Matt Woodstock
     right: |
       <i class="fab fa-twitter"></i> <a href="https://twitter.com/fishesarefrandz">@fishesarefrandz</a> on Twitter <br>
       <i class="fab fa-github"></i> <a href="https://github.com/mattwoodstock">mattwoodstock</a> on GitHub <br>
       <i class="fas fa-envelope"></i> <a href="mailto:msw200@miami.edu">msw200@miami.edu</a><br>
-      <i class="fas fa-map-marker-alt"></i> Woods Hole, MA, USA
+      <i class="fas fa-map-marker-alt"></i> Miami, FL, USA
     border: true
     background: primary
 format:

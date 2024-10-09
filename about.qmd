@@ -59,7 +59,7 @@ df <- data.frame(what = c('<i class="fab fa-twitter"></i>',
                            '<i class="fas fa-envelope"></i>',
                            '<i class="fas fa-map-marker-alt"></i>'),
                  where = c("[fishesarefrandz](https://twitter.com/fishesarefrandz)",
-                           "[fishesofthedeep](https://github.com/mattwoodstock)",
+                           "[mattwoodstock](https://github.com/mattwoodstock)",
                            "[msw200@miami.edu](mailto:msw200@miami.edu)",
                            "Cooperative Institute for Marine and Atmospheric Sciences<br>Rosenstiel School of Marine, Atmospheric, and Earth Science<br>4600 Rickenbacker Causeway<br>Miami, FL, USA 33149"))
 knitr::kable(df, col.names = c("", ""), escape = FALSE)
