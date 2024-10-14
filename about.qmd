@@ -17,10 +17,7 @@ about:
       href: https://github.com/mattwoodstock
     - icon: google
       text: Scholar
-      href: https://scholar.google.com/citations?user=UtMzPDQAAAAJ&hl=en
-    - icon: mortarboard-fill
-      text: Morgan State
-      href: https://www.morgan.edu
+      href: https://scholar.google.com/citations?user=ANNUgHsAAAAJ&hl=en
 engine: knitr
 format:
   html:

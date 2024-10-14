@@ -109,7 +109,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Woodstock, Bevans, Sulyman, Maples, Knoche, Ihde (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling.\nMartin, Woodstock, et al. (2024) When to add a new process to a model, and when not: A marine biogeochemical perspective. Ecological Modelling. \nWoodstock, Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, and Zhang (2023) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. \nRichards, Sutton, Woodstock, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. Progress in Oceanography. \nWoodstock and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. \n\n\n\n\nYou can view the individual page to each of my current projects in the Research Tab:\n\nEcosystem-Based Modeling in the Gulf of Mexico\nDevelopment of a Novel Agent-Based Ecosystem Model, SwimmingIndividuals.jl, for High-Resolution Questions"
+    "text": "Woodstock, Bevans, Sulyman, Maples, Knoche, Ihde (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling.\nMartin, Woodstock, et al. (2024) When to add a new process to a model, and when not: A marine biogeochemical perspective. Ecological Modelling. \nWoodstock, Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, and Zhang (2023) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. \nRichards, Sutton, Woodstock, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. Progress in Oceanography. \nWoodstock and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers. \n\n\n\n\nYou can view the individual page to each of my current projects in the Research Tab:\n\nEcosystem-Based Modeling in the Gulf of Mexico\nDevelopment of a Novel Agent-Based Ecosystem Model, SwimmingIndividuals.jl"
   },
   {
     "objectID": "index.html#recent-publications",
@@ -130,7 +130,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     Morgan State\nI’m an Assistant Scientist at the Cooperative Institute for Marine and Atmospheric Sciences working closely with the NOAA Southeast Fisheries Science Center.\nMy research interests are:\nI am proficient in R (base + tidyverse), Julia, Primer, and Ecopath with Ecosim and have working knowledge of Bash, OSMOSE (Java-based), QGIS (Python-based) and Atlantis. I’ve lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, Maryland, and Massachusetts. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in R. For the creation of this website, I also gained the experience of some front-end web development (HTML/CSS/JS).\nI am a big advocate of open science and I try to deposit my code on GitHub. Please contact me for any code that you may like to utilize and/or any potential collaborations."
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Scholar\nI’m an Assistant Scientist at the Cooperative Institute for Marine and Atmospheric Sciences working closely with the NOAA Southeast Fisheries Science Center.\nMy research interests are:\nI am proficient in R (base + tidyverse), Julia, Primer, and Ecopath with Ecosim and have working knowledge of Bash, OSMOSE (Java-based), QGIS (Python-based) and Atlantis. I’ve lived in the United States my entire life, but have bounced around Wisconsin, Minnesota, New Hampshire, Florida, Maryland, and Massachusetts. My PhD, obtained at Florida International University in 2022, is in Biological Sciences with most of my code written in R. For the creation of this website, I also gained the experience of some front-end web development (HTML/CSS/JS).\nI am a big advocate of open science and I try to deposit my code on GitHub. Please contact me for any code that you may like to utilize and/or any potential collaborations."
   },
   {
     "objectID": "about.html#contact",
@@ -305,7 +305,7 @@
     "href": "index.html#current-projects",
     "title": "Home",
     "section": "",
-    "text": "You can view the individual page to each of my current projects in the Research Tab:\n\nEcosystem-Based Modeling in the Gulf of Mexico\nDevelopment of a Novel Agent-Based Ecosystem Model, SwimmingIndividuals.jl, for High-Resolution Questions"
+    "text": "You can view the individual page to each of my current projects in the Research Tab:\n\nEcosystem-Based Modeling in the Gulf of Mexico\nDevelopment of a Novel Agent-Based Ecosystem Model, SwimmingIndividuals.jl"
   },
   {
     "objectID": "publications.html#section-6",

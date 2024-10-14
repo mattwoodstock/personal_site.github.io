@@ -34,7 +34,7 @@ title-block-banner: true
 
 
 ```{r, out.width=800, out.height= 1100, include=TRUE, fig.align="center", echo=FALSE}
-knitr::include_graphics("C:/Users/Matt Woodstock/Documents/Woodstock_Website/cv.pdf")
+knitr::include_graphics("./Woodstock_CV_working.pdf")
 ```
 
 </div>

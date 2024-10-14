@@ -30,16 +30,8 @@ You can view the individual page to each of my current projects in the Research 
 
 * **Ecosystem-Based Modeling in the Gulf of Mexico**
 
-* **Development of a Novel Agent-Based Ecosystem Model, <i>SwimmingIndividuals.jl</i>, for High-Resolution Questions**
+* **Development of a Novel Agent-Based Ecosystem Model, <i>SwimmingIndividuals.jl</i>**
 
-
-:::
-
-::: {style="width:40%; float: right;padding-left: 20px;"}
-
-<a class="twitter-timeline" data-height="700" data-width="300"  href="https://twitter.com/fishesarefrandz">Tweets by fishesarefrandz</a>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 :::
 
