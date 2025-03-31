@@ -10,10 +10,15 @@ format:
 ::: {.main style="width:60%; float: left;"}
 <i> If you have trouble accessing any of these, please [email me](mailto:matthew.woodstock@morgan.edu).</i>
 
-## 2024
-* <b>Woodstock, M.S.</b>, A. T. Bevans, M. Sulyman, J. Maples, S. Knoche, T. F. Ihde. (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling.
+## 2025
+* **Woodstock, M.S.**, H.E. Harris. (2025). Ecosystem models can predict the consequences of conservation management decisions. Ecology Letters.
 
-* Martin A. P., A. B. Dominguez, C. A. Baker, C. M. J. Baumas, K. M. Bisson, E. Cavan, M. Freilich, E. Galbraith, M. Gali, S. Hensen, K. F. Kvale, C. Lemmen, L. Y. Luo, H. McMonagle, F. deM. Virissimo, K. O. Moller, C. Richon, I. Suresh, J. D. Wison, <b>M. S. Woodstock</b>, A. Yool. (2024) When to add a new process to a model, and when not: A marine biogeochemical perspective. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2024.110870)
+* Ferone, G., **M.S. Woodstock**, A. Hearn. (2025). Random Swims: An evaluation of acoustic telemetry thresholds for reef-shark behavior and residency. Animal Biotelemetry.
+
+## 2024
+* **Woodstock, M.S.**, A. T. Bevans, M. Sulyman, J. Maples, S. Knoche, T. F. Ihde. (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2024.110914)
+
+* Martin A. P., A. B. Dominguez, C. A. Baker, C. M. J. Baumas, K. M. Bisson, E. Cavan, M. Freilich, E. Galbraith, M. Gali, S. Hensen, K. F. Kvale, C. Lemmen, L. Y. Luo, H. McMonagle, F. deM. Virissimo, K. O. Moller, C. Richon, I. Suresh, J. D. Wison, **M. S. Woodstock**, A. Yool. (2024) When to add a new process to a model, and when not: A marine biogeochemical perspective. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2024.110870)
 
 ## 2023
 * **Woodstock, M.S.**, J.J. Kiszka, M. Rafael Ramírez-León, T.T. Sutton, K. Fennel, B. Wang, Y. Zhang (2024) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12093)

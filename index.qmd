@@ -13,22 +13,23 @@ format:
 
 ## <i class="fas fa-newspaper"></i> Recent Publications (Latest 5)
 
-* <b>Woodstock</b>, Bevans, Sulyman, Maples, Knoche, Ihde (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling.
+
+* <b>Woodstock</b>, Harris (2025) Ecosystem models can predict the consequences of conservation management decisions. Ecology Letters.
+
+* Ferone, G., <b>Woodstock</b>, A. Hearn. (2025). Random Swims: An evaluation of acoustic telemetry thresholds for reef-shark behavior and residency. Animal Biotelemetry.
+
+* <b>Woodstock</b>, Bevans, Sulyman, Maples, Knoche, Ihde (2024) The economic impacts of living habitat changes in the Virginia Middle Peninsula, Chesapeake Bay. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2024.110914)
 
 * Martin, <b>Woodstock</b>, et al. (2024) When to add a new process to a model, and when not: A marine biogeochemical perspective. Ecological Modelling. [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.ecolmodel.2024.110870)
 
 * <b>Woodstock</b>, Kiszka, Rafael Ramírez-León, Sutton, Fennel, Wang, and Zhang (2023) Cetacean-mediated vertical nitrogen transport in the oceanic realm. Limnology and Oceanography.  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1002/lno.12433)
-
-* Richards, Sutton, <b>Woodstock</b>, Judkins, and Wells (2023) Body size, depth of occurrence, and local oceanography shape trophic structure in a diverse deep-pelagic micronekton assemblage. Progress in Oceanography.  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.pocean.2023.102998)
-
-* <b>Woodstock</b> and Zhang (2022) Towards ecosystem modeling in the deep sea: A review of past efforts and primer for the future. Deep-Sea Research Part I: Oceanographic Research Papers.  [<i class="fa-solid fa-link"></i>](https://doi.org/10.1016/j.dsr.2022.103851)
 
 
 ## <i class="fas fa-wrench"></i> Current Projects
 
 You can view the individual page to each of my current projects in the Research Tab:
 
-* **Ecosystem-Based Modeling in the Gulf of Mexico**
+* **Ecosystem Modeling in the Gulf of Mexico**
 
 * **Development of a Novel Agent-Based Ecosystem Model, <i>SwimmingIndividuals.jl</i>**
 
