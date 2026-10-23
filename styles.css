@@ -175,3 +175,16 @@ section{scroll-margin-top:76px}
 .sociallinks{display:flex;gap:1rem;margin-top:.8rem;font-size:1.3rem}
 .sociallinks a{color:#cfe1e6}
 .sociallinks a:hover{color:#fff}
+
+/* Ecospace Live Solver page */
+.pagehead .cta{margin-top:1.3rem}
+.pagehead .btn.solid{background:#fff;color:#0a2a38}
+.pagehead .btn.ghost{color:#eef5f6;border-color:rgba(255,255,255,.45)}
+.pagehead .btn.ghost:hover{background:rgba(255,255,255,.1)}
+.steps{margin:0;padding-left:1.3rem;display:grid;gap:.7rem}
+.steps li{padding-left:.2rem}
+.steps code,.soft code{font-size:.88em;background:var(--surface-2);padding:.05rem .35rem;border-radius:.3rem}
+.small-note{font-size:.88rem;margin:-.6rem 0 1.2rem}
+.shot{margin:0}
+.shot img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.shot figcaption{font-size:.88rem;color:var(--muted);margin-top:.5rem}
